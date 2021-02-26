@@ -27,7 +27,7 @@
         android:layout_height="240dp"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        android:background="@android:color/holo_orange_light"
+        android:background="@color/my_orange"
         android:gravity="center"
         android:text="@string/_0"
         android:textAlignment="center"
