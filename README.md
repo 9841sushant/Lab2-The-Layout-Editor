@@ -1,5 +1,5 @@
 # Lab2-The layout Editor
-### Portrait 
-![](./portrait.jpg)
-### Landscape
-![](./Landscape.jpg)
+### Portrait in linear layout
+![](./portrait_linear.jpg)
+### Landscape in linear layout
+![](./landscape_linear.jpg)
