@@ -1,5 +1,9 @@
-# Lab2-The layout Editor
+# Lab2-The layout Editor Homework
 ### Portrait 
-![](./portrait.jpg)
+![](./p_zero.jpg)
+![](./p_even.jpg)
+![](./p_odd.jpg)
 ### Landscape
-![](./Landscape.jpg)
+![](./l_zero.jpg)
+![](./l_even.jpg)
+![](./l_odd.jpg)
