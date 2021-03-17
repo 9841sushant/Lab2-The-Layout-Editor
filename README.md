@@ -7,3 +7,4 @@
 ![](./l_zero.jpg)
 ![](./l_even.jpg)
 ![](./l_odd.jpg)
+![GIF](lab2hwgif.gif)
